@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qi Hui"
-  avatar           : "profile.png"
+  avatar           : "Boniu.jpg"
   bio              : "Ph.D. Student in Nanjing University of Aeronautics and Astronautics"
   location         : "Nanjing, Jiangsu, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/njyq2008"
+  github           : "njyq2008"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  wechat           : "njyq2008"
 
 # Reading Files
 include:
